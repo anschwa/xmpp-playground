@@ -6,3 +6,8 @@ Running development server:
 #+BEGIN_SRC text
 npm run serve
 #+END_SRC
+
+* XMPP Specs
+- [[https://tools.ietf.org/html/rfc3920][RFC-3920]]
+- [[https://tools.ietf.org/html/rfc3921][RFC-3921]]
+- [[https://tools.ietf.org/html/rfc3922][RFC-3922]]
