@@ -1,0 +1,8 @@
+* XMPP Playground
+
+A scratchpad for experimenting with XMPP in Vue using strophe.js.
+
+Running development server:
+#+BEGIN_SRC text
+npm run serve
+#+END_SRC
